@@ -1,7 +1,7 @@
 
 # Snailcoin
 
-Snailcoin is a Python library for generating Snailcoin patterns, which consist of black (0) and white (1) pixels. It is designed to be used for world generation in pycord projects.
+Snailcoin is a Python library for generating Snailcoin patterns, which consist of black (0) and white (1) pixels. It is designed to be used for world generation in pygame projects.
 
 ## Installation
 
