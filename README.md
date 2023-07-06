@@ -1,0 +1,2 @@
+# snailcoin
+a python library
